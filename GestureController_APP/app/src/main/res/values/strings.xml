@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Gesture Controller</string>
+    <string name="description_add_device_fab">Add Device</string>
+    <string name="description_logo">Logo</string>
+    <string name="description_device_thumbnail">Device Thumbnail</string>
+    <string name="description_register_gesture_fab">Register Gesture</string>
+    <string-array name="image_ids">
+        <item>@drawable/image_1</item>
+        <item>@drawable/image_2</item>
+        <item>@drawable/image_3</item>
+        <item>@drawable/image_4</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+    </string-array>
+    <string-array name="image_names">
+        <item>공기청정기</item>
+        <item>에어컨</item>
+        <item>빔프로젝터</item>
+        <item>블라인드</item>
+        <item>선풍기</item>
+        <item>전등</item>
+        <item>모니터</item>
+        <item>로봇청소기</item>
+        <item>텔레비전</item>
+    </string-array>
+</resources>
